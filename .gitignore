@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+README.md
+TestJob.php
+client.php
+gearman_server.php
+server.php
